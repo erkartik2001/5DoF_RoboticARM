@@ -1,0 +1,55 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yujiro/LD_ws/devel/include/**",
+        "/home/yujiro/hardware/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/yujiro/cwf/devel/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+        "/home/yujiro/hardware/src/Universal_Robots_ROS_Driver/controller_stopper/include/**",
+        "/home/yujiro/cwf/src/gazebo_ros_link_attacher/include/**",
+        "/home/yujiro/cwf/src/moveit_/geometric_shapes/include/**",
+        "/home/yujiro/LD_ws/src/luminosity_drone/swift_simulator/mav_comm/mav_msgs/include/**",
+        "/home/yujiro/LD_ws/src/luminosity_drone/swift_simulator/mav_comm/mav_planning_msgs/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_planners/chomp/chomp_interface/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_ros/benchmarks/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_ros/move_group/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_ros/occupancy_map_monitor/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_ros/robot_interaction/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_ros/moveit_servo/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_setup_assistant/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit_visual_tools/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/yujiro/catkin_ws/src/proj_1/include/**",
+        "/home/yujiro/cwf/src/robotiq_85_gripper-master/robotiq_85_simulation/roboticsgroup_gazebo_plugins/include/**",
+        "/home/yujiro/LD_ws/src/luminosity_drone/swift_simulator/rotors_control/include/**",
+        "/home/yujiro/LD_ws/src/luminosity_drone/swift_simulator/rotors_gazebo/include/**",
+        "/home/yujiro/LD_ws/src/luminosity_drone/swift_simulator/rotors_gazebo_plugins/include/**",
+        "/home/yujiro/LD_ws/src/luminosity_drone/swift_simulator/rotors_swift_interface/include/**",
+        "/home/yujiro/cwf/src/moveit_/rviz_visual_tools/include/**",
+        "/home/yujiro/cwf/src/moveit_/moveit/moveit_planners/sbpl/core/sbpl_interface/include/**",
+        "/home/yujiro/cwf/src/moveit_/srdfdom/include/**",
+        "/home/yujiro/hardware/src/Universal_Robots_ROS_Driver/ur_calibration/include/**",
+        "/home/yujiro/hardware/src/universal_robot/ur_kinematics/include/**",
+        "/home/yujiro/hardware/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/**",
+        "/home/yujiro/LD_ws/src/luminosity_drone/whycon/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

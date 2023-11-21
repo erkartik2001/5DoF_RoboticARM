@@ -1,0 +1,15 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yujiro/LD_ws/devel/lib/python3/dist-packages",
+        "/home/yujiro/cwf/devel/lib/python3/dist-packages",
+        "/home/yujiro/hardware/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/yujiro/LD_ws/devel/lib/python3/dist-packages",
+        "/home/yujiro/cwf/devel/lib/python3/dist-packages",
+        "/home/yujiro/hardware/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "ros.distro": "noetic"
+}
